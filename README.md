@@ -29,7 +29,7 @@ Certifique-se de ter o **Node.js** instalado em sua máquina.
 
 1. **Clone o repositório:**
    ````bash
-   git clone [https://github.com/SEU_USUARIO/mario-kart-js.git](https://github.com/SEU_USUARIO/mario-kart-js.git)
+   git clone [https://github.com/MarcosJr001/mario-kart-js.git](https://github.com/MarcosJr001/mario-kart-js.git)
 
    
 2. **Acesse a pasta do projeto:**
