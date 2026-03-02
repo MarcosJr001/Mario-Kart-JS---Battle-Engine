@@ -1,4 +1,4 @@
-// 1. Definição da Classe do Jogador
+// 1. Definição da Classe do Jogador.
 class Player {
     constructor(nome, velocidade, manobrabilidade, poder) {
         this.nome = nome;
