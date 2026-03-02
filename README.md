@@ -51,3 +51,16 @@ Certifique-se de ter o **Node.js** instalado em sua máquina.
     poder: 3,
     pontos: 0
   }
+
+````
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github.com/MarcosJr001/Mario-Kart-JS---Battle-Engine/blob/main/docs/Jogo%20em%20execu%C3%A7%C3%A3o..png?raw=true" alt="Preview do Jogo" width="100%">
+    </td>
+    <td>
+      <img src="https://github.com/MarcosJr001/Mario-Kart-JS---Battle-Engine/blob/main/docs/Jogo%20em%20execu%C3%A7%C3%A3o%202..png" alt="Preview do Jogo" width="100%">
+    </td>
+  </tr>
+</table>
